@@ -1,4 +1,4 @@
-# SPEECH-RECOGNITION-SYSTEM
+SPEECH-RECOGNITION-SYSTEM
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -46,3 +46,4 @@ This Speech Recognition System has many real-world applications. Students can us
 This project demonstrates how Python and AI technologies can be used to build a simple and effective speech-to-text system. By using Google Colab, SpeechRecognition, and pydub libraries, developers can easily create voice-processing applications without requiring advanced hardware or deep technical knowledge.
 
 OUTPUT:
+<img width="1600" height="1028" alt="Image" src="https://github.com/user-attachments/assets/7b6ae8a2-80ab-4cd1-be35-bec545d568f3" />
